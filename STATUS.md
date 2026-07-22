@@ -2,25 +2,31 @@
 
 ## STATUS
 
-**MATHEMATICALLY PROVEN; LEAN 4.27 SOURCE PORT GENERATED; CORRECTED KERNEL BUILD PENDING.**
+**CANDIDATE SOLVED.**
 
-The conjecture is classified as true. The human proof is complete, the search is reproducible, and the exact current-definition port has reached Lean 4.27 CI.
+The conjecture is mathematically proved and the unchanged authoritative theorem has been kernel-checked successfully under the pinned current Formal Conjectures environment.
 
 ## STATEMENT
 
-The authoritative theorem is preserved unchanged in `authoritative/GraphConjecture19.lean`.
+The source-of-truth theorem remains unchanged in `authoritative/GraphConjecture19.lean`:
 
-Current pinned semantics:
+```lean
+theorem conjecture19 (G : SimpleGraph α) [Nontrivial α] (h_conn : G.Connected) :
+    ⌊(∑ v ∈ Finset.univ, ((G.eccent v).toNat : ℝ)) / (Fintype.card α : ℝ) +
+      sSup (Set.range (indepNeighbors G))⌋ ≤ b G := by
+```
 
-- `indepNeighbors G v` is the real cast of the induced-neighborhood independence number.
-- `b G` is the real cast of the largest induced-bipartite order.
-- `G.eccent v` is converted with `.toNat` before averaging.
+Current definitions were audited:
 
-**PROVEN:** exact statement and definitions audited.
+- `indepNeighbors G v` is the real cast of the independence number of the graph induced by the open neighborhood of `v`.
+- `b G` is the real cast of the largest induced-bipartite vertex-set cardinality.
+- `G.eccent v` is converted using `.toNat` before averaging.
+
+**PROVEN:** generated final theorem matches the authoritative theorem exactly.
 
 **OPEN:** none.
 
-**NEXT:** kernel-check this unchanged final theorem.
+**NEXT:** preserve this statement unchanged in any submission.
 
 ## SEARCH
 
@@ -31,103 +37,106 @@ Current pinned semantics:
 | Seeded random connected graphs, orders 8–12 | 1,500 | 0 | 279 |
 | **Total** | **3,033** | **0** | **1,035** |
 
-The search was rerun twice after the original run. Preserved JSON SHA256:
+The search was reproduced after the original run. Preserved result SHA256:
 
 ```text
 34d231ca3f5544dcdae2439c54c3237282e19a45e2db0286176b716fd80bd2dc
 ```
 
-See `search/search_conjecture19.py` and `search/SEARCH_RESULTS.md`.
+**PROVEN:** no counterexample in the reproducible corpus.
 
-**PROVEN:** no counterexample in the recorded corpus.
+**OPEN:** none relevant to the universal classification; search is supporting evidence.
 
-**OPEN:** search is supporting evidence, not the universal proof.
-
-**NEXT:** retain the exact script and parameters.
+**NEXT:** retain the script, fixed seed, parameters, and result hash.
 
 ## PROOF
 
 Let `d` be the diameter, `λ` the maximum neighborhood independence number, and `ē` the average eccentricity.
 
-A diameter-path short-window construction proves
+The structural proof constructs an induced bipartite subgraph showing
 
 ```text
 b(G) >= d + λ - 1.
 ```
 
-If `ē < d`, integrality gives `floor(ē + λ) <= d + λ - 1`. If `ē = d`, every vertex is diametral; a maximum independent neighborhood set plus a diametral path with its first neighbor deleted induces a bipartite subgraph of order `d + λ`.
+Then:
 
-See `HUMAN_PROOF.md` for the full proof.
+1. If `ē < d`, integrality gives `floor(ē + λ) <= d + λ - 1`.
+2. If `ē = d`, every vertex is diametral. At a vertex attaining `λ`, a maximum independent neighborhood set combined with a diametral geodesic with its first neighbor removed yields an induced bipartite subgraph of order `d + λ`.
+
+The complete argument, including the geodesic short-window construction, is in `HUMAN_PROOF.md`.
 
 **PROVEN:** complete human proof.
 
 **OPEN:** none mathematically.
 
-**NEXT:** independent source review after formal compilation.
+**NEXT:** use `INDEPENDENT_REVIEW.md` as the final adversarial-review record.
 
 ## LEAN
 
-Pinned sources:
+Pinned environment:
 
 - Formal Conjectures: `e923379e609b9d5987011a1d1f06ec22ea25cd20`
-- AMRA certificate: `e4e339e5b380375cf1c7838251966d0fc3c06929`
-- Target: Lean 4.27 / mathlib `a3a10db0e9d66acbebf76c5e6a135066525ac900`
+- AMRA source certificate: `e4e339e5b380375cf1c7838251966d0fc3c06929`
+- Lean: `4.27.0`
+- Mathlib: `a3a10db0e9d66acbebf76c5e6a135066525ac900`
 
-`scripts/generate_lean_port.py` creates:
+The deterministic generator produces:
 
 1. `GraphConjecture19BipartiteSupport.lean`
 2. `GraphConjecture19Conjecture13Support.lean`
 3. `GraphConjecture19Solved.lean`
 
-The generator uses current upstream definitions, avoids the upstream Conjecture 13 placeholder, preserves the exact theorem without an extra assumption, and rejects `sorry`, `admit`, or `axiom`.
+It uses the current upstream definitions, avoids the upstream Conjecture 13 placeholder, preserves the exact theorem without an extra assumption, and rejects generated files containing `sorry`, `admit`, or `axiom`.
 
-### First Lean 4.27 CI result
-
-The following phases passed:
-
-- install Lean 4.27;
-- fetch both exact source commits;
-- generate all three modules;
-- forbidden-marker scan;
-- record the exact environment;
-- download and unpack the pinned Mathlib cache.
-
-The first kernel phase failed before elaborating any theorem because it invoked the final source with direct `lake env lean`; the imported newly generated modules had not yet been built, producing:
+Passing CI certificate on branch `ci-results`:
 
 ```text
-unknown module prefix 'FormalConjectures'
+Repository commit: 57d6f1efbd57158ea661e568dfa901c16a8abb73
+failed_phase: none
+exit_code: 0
+Build completed successfully (8040 jobs).
 ```
 
-This was an invocation error, not a source-level Lean error. `scripts/run_port_ci.sh` now uses the canonical target:
+Final generated theorem SHA256:
 
-```bash
-lake build FormalConjectures.WrittenOnTheWallII.GraphConjecture19Solved
+```text
+9cf7465ebb1a9d11b9b954ed4f6a14c7a81ae3b4fd2d041f84cc01d7762815f1
 ```
 
-A corrected clean rerun has been queued. All temporary recurring schedules have been removed.
+The only compiler messages at completion were non-fatal copyright-header linter warnings.
 
-**PROVEN:** exact source generation succeeds under the Lean 4.27 workflow and produces no forbidden markers.
+**PROVEN:** unchanged authoritative theorem kernel-checks under Lean 4.27 with no proof placeholders.
 
-**OPEN:** result of the corrected Lake module build.
+**OPEN:** none in the formal proof.
 
-**NEXT:** inspect the next `ci-results/lean-build.log`; patch only concrete Lean compiler errors or record exit code zero.
+**NEXT:** preserve the passing CI result, generated sources, build log, and hashes.
 
 ## REVIEW
 
-Adversarial review checked the floor split, equality case, window cardinality, parity classes, path chords, current-definition equivalence, and generated dependency closure.
+`INDEPENDENT_REVIEW.md` rechecked:
 
-**PROVEN:** no mathematical gap found.
+- exact theorem identity;
+- absence of additional hypotheses;
+- no import of the upstream Conjecture 19 or Conjecture 13 placeholders;
+- proof dependency closure;
+- strict and equality branches;
+- path-window cardinality and parity coloring;
+- current-definition equivalence;
+- successful kernel transcript and source hashes.
 
-**OPEN:** independent Lean build and final source review.
+**PROVEN:** final adversarial source and evidence review passed.
 
-**NEXT:** reproduce the exact build after it passes.
+**OPEN:** an additional external human/model review is optional, not a mathematical or kernel gate.
+
+**NEXT:** request external review before or during submission if desired.
 
 ## SUBMISSION
 
-No upstream pull request, issue, branch, maintainer contact, or submission was created.
+No upstream pull request, issue, branch, maintainer contact, or submission has been created.
 
-**PROVEN:** stop gate respected.
+**PROVEN:** publication stop gate respected.
 
-**OPEN:** kernel pass, independent review, and Brian's approval.
+**OPEN:** Brian's approval for any upstream action.
 
-**NEXT:** only after those gates, use the label **CANDIDATE SOLVED**.
+**NEXT:** do not submit or contact maintainers until Brian explicitly approves.
