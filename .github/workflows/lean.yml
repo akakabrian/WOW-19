@@ -21,6 +21,14 @@ jobs:
       - name: Check out evidence repository
         uses: actions/checkout@v4
 
+      - name: Restore Lean and Mathlib caches
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.elan
+            ~/.cache/mathlib
+          key: wow19-lean427-mathlib-a3a10db0-v1
+
       - name: Run complete isolated port
         id: proof
         continue-on-error: true
