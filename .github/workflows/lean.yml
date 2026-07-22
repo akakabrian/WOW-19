@@ -29,14 +29,22 @@ jobs:
             | sh -s -- -y --default-toolchain none
           echo "$HOME/.elan/bin" >> "$GITHUB_PATH"
 
-      - name: Clone pinned proof sources
+      - name: Fetch exact pinned proof sources
         shell: bash
         run: |
           set -euxo pipefail
-          git clone https://github.com/google-deepmind/formal-conjectures.git formal-conjectures
-          git -C formal-conjectures checkout --detach "$FORMAL_CONJECTURES_COMMIT"
-          git clone https://github.com/chainstart/amra.git amra
-          git -C amra checkout --detach "$AMRA_COMMIT"
+
+          git init formal-conjectures
+          git -C formal-conjectures remote add origin \
+            https://github.com/google-deepmind/formal-conjectures.git
+          git -C formal-conjectures fetch --depth=1 origin "$FORMAL_CONJECTURES_COMMIT"
+          git -C formal-conjectures checkout --detach FETCH_HEAD
+
+          git init amra
+          git -C amra remote add origin https://github.com/chainstart/amra.git
+          git -C amra fetch --depth=1 origin "$AMRA_COMMIT"
+          git -C amra checkout --detach FETCH_HEAD
+
           test "$(git -C formal-conjectures rev-parse HEAD)" = "$FORMAL_CONJECTURES_COMMIT"
           test "$(git -C amra rev-parse HEAD)" = "$AMRA_COMMIT"
 
@@ -44,6 +52,7 @@ jobs:
         shell: bash
         run: |
           set -euxo pipefail
+          python3 -m py_compile scripts/generate_lean_port.py
           python3 scripts/generate_lean_port.py \
             --formal formal-conjectures \
             --amra amra
