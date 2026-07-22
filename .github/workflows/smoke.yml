@@ -1,0 +1,31 @@
+name: Actions smoke test
+
+on:
+  create:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publish smoke result
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euxo pipefail
+          mkdir result
+          cd result
+          printf '%s\n' "Actions executed for ${GITHUB_SHA} at $(date -u +%Y-%m-%dT%H:%M:%SZ)" > ACTIONS_SMOKE.txt
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b actions-smoke
+          git add ACTIONS_SMOKE.txt
+          git commit -m "Actions smoke result for ${GITHUB_SHA}"
+          git remote add origin \
+            "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push --force origin actions-smoke
