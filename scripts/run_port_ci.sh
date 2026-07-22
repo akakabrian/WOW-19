@@ -92,8 +92,7 @@ kernel_check() {
   export PATH="$HOME/.elan/bin:$PATH"
   cd "$FORMAL"
   set +o pipefail
-  lake env lean \
-    FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean \
+  lake build FormalConjectures.WrittenOnTheWallII.GraphConjecture19Solved \
     2>&1 | tee "$OUT/lean-build.log"
   local rc=${PIPESTATUS[0]}
   set -o pipefail
