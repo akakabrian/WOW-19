@@ -1,0 +1,2298 @@
+✔ [7884/7891] Built FormalConjecturesForMathlib.Algebra.Group.Action.Pointwise.Set.Basic (1.5s)
+✔ [7885/7892] Built FormalConjecturesForMathlib.Algebra.GCDMonoid.Finset (1.6s)
+✔ [7886/7893] Built FormalConjecturesForMathlib.Order.Filter.atTopBot.Finset (1.8s)
+✔ [7887/7894] Built FormalConjecturesForMathlib.Algebra.Group.Indicator (1.5s)
+✔ [7888/7894] Built FormalConjecturesForMathlib.Algebra.Polynomial.Basic (1.9s)
+✔ [7889/7895] Built FormalConjecturesForMathlib.Algebra.Polynomial.Algebra (2.9s)
+✔ [7890/7896] Built FormalConjecturesForMathlib.Algebra.Polynomial.HasseDeriv (2.4s)
+✔ [7891/7897] Built FormalConjecturesForMathlib.Algebra.Powerfree (2.4s)
+✔ [7892/7898] Built FormalConjecturesForMathlib.Algebra.Order.Group.Pointwise.Interval (6.0s)
+✔ [7893/7899] Built FormalConjecturesForMathlib.Algebra.QuadraticAlgebra.Basic (3.9s)
+✔ [7894/7901] Built FormalConjecturesForMathlib.Algebra.QuadraticAlgebra.Instances (4.1s)
+✔ [7895/7901] Built FormalConjecturesForMathlib.AlgebraicGeometry.ProjectiveSpace (3.5s)
+✔ [7896/7901] Built FormalConjecturesForMathlib.Algebra.Group.GrowthFunction (9.4s)
+✔ [7897/7904] Built FormalConjecturesForMathlib.Analysis.Equidistribution.ModOne (2.2s)
+✔ [7898/7905] Built FormalConjecturesForMathlib.AlgebraicGeometry.VectorBundle (3.4s)
+✔ [7899/7906] Built FormalConjecturesForMathlib.Analysis.Asymptotics.Basic (2.6s)
+✔ [7900/7907] Built FormalConjecturesForMathlib.Topology.Algebra.InfiniteSum.Order (2.4s)
+✔ [7901/7908] Built FormalConjecturesForMathlib.Analysis.Real.Cardinality (2.3s)
+✔ [7902/7908] Built FormalConjecturesForMathlib.Topology.Algebra.InfiniteSum.Group (2.8s)
+✔ [7903/7908] Built FormalConjecturesForMathlib.Analysis.Fourier.SpectralSets (5.5s)
+✔ [7904/7911] Built FormalConjecturesForMathlib.Analysis.SpecialFunctions.NthRoot (3.7s)
+✔ [7905/7912] Built FormalConjecturesForMathlib.Combinatorics.AP.Basic (3.9s)
+✔ [7906/7913] Built FormalConjecturesForMathlib.Analysis.SpecialFunctions.Log.Basic (4.6s)
+✔ [7907/7914] Built FormalConjecturesForMathlib.Analysis.HasGaps (4.8s)
+✔ [7908/7914] Built FormalConjecturesForMathlib.Order.Filter.Cofinite (2.0s)
+✔ [7909/7914] Built FormalConjecturesForMathlib.Combinatorics.Additive.Convolution (2.5s)
+✔ [7910/7917] Built FormalConjecturesForMathlib.Combinatorics.Additive.RestrictedSumset (1.6s)
+✔ [7911/7918] Built FormalConjecturesForMathlib.Combinatorics.Additive.DifferenceBasis (1.9s)
+✔ [7912/7919] Built FormalConjecturesForMathlib.Combinatorics.SetFamily.VCDim (2.2s)
+✔ [7913/7920] Built FormalConjecturesForMathlib.Combinatorics.Additive.Coset (5.8s)
+✔ [7914/7920] Built FormalConjecturesForMathlib.Combinatorics.Hypergraph.ThreeUniform (2.7s)
+✔ [7915/7921] Built FormalConjecturesForMathlib.Combinatorics.Additive.Basis (7.9s)
+✔ [7916/7923] Built FormalConjecturesForMathlib.Combinatorics.LatinSquare (2.6s)
+✔ [7917/7924] Built FormalConjecturesForMathlib.Combinatorics.Additive.VCDim (5.3s)
+✔ [7918/7925] Built FormalConjecturesForMathlib.Combinatorics.Ramsey (1.9s)
+✔ [7919/7926] Built FormalConjecturesForMathlib.Combinatorics.SetFamily.Sunflower (1.0s)
+✔ [7920/7926] Built FormalConjecturesForMathlib.Combinatorics.SetTheory.PartitionRelation (1.8s)
+✔ [7921/7927] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Balanced (1.7s)
+✔ [7922/7929] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Circumference (1.8s)
+✔ [7923/7930] Built FormalConjecturesForMathlib.Combinatorics.Ramsey.Diagonal (2.8s)
+✔ [7924/7930] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Clique (2.7s)
+✔ [7925/7930] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.CompleteGraphEdgeCount (1.9s)
+✔ [7926/7933] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.CycleRank (1.0s)
+✔ [7927/7934] Built FormalConjecturesForMathlib.Combinatorics.Basic (15s)
+✔ [7928/7934] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.DiamExtra (1.9s)
+✔ [7929/7937] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.FractionalAlpha (2.0s)
+✔ [7930/7940] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Residue (2.7s)
+✔ [7931/7941] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.VertexDistance (4.2s)
+✔ [7932/7942] Built FormalConjecturesForMathlib.Analysis.Matrix.Spectrum (2.0s)
+✔ [7933/7942] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Degrees (2.3s)
+✔ [7934/7942] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Cvetkovic (2.4s)
+✔ [7935/7943] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Coloring (7.2s)
+✔ [7936/7943] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Independence (2.1s)
+✔ [7937/7944] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.SzegedIndex (2.7s)
+✔ [7938/7944] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.AnnihilationNumber (2.3s)
+✔ [7939/7945] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.WienerIndex (3.0s)
+✔ [7940/7946] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Temperature (1.8s)
+✔ [7941/7947] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Induced (2.0s)
+✔ [7942/7948] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.LovaszTheta (2.8s)
+✔ [7943/7949] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Eccentricity (2.8s)
+✔ [7944/7950] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.PathCover (1.9s)
+✔ [7945/7950] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.EdgeColouring (1.6s)
+✔ [7946/7953] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.LargestInducedTree (1.9s)
+✔ [7947/7954] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Domination (2.2s)
+✔ [7948/7955] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.WellTotallyDominated (1.8s)
+✔ [7949/7956] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.HomDensity (2.5s)
+✔ [7950/7957] Built FormalConjecturesForMathlib.Data.Finset.Card (1.5s)
+✔ [7951/7957] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Ramsey (1.6s)
+✔ [7952/7958] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.SizeRamsey (1.9s)
+✔ [7953/7959] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Connectivity (1.7s)
+✔ [7954/7960] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Matching (2.2s)
+✔ [7955/7961] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Johnson (2.1s)
+✔ [7956/7961] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.SpanningTree (2.0s)
+✔ [7957/7964] Built FormalConjecturesForMathlib.Combinatorics.YoungDiagram (1.7s)
+✔ [7958/7966] Built FormalConjecturesForMathlib.Computability.DFA (1.9s)
+✔ [7959/7967] Built FormalConjecturesForMathlib.Combinatorics.SimpleGraph.UnitDistancePlaneGraph (2.8s)
+✔ [7960/7968] Built FormalConjecturesForMathlib.Computability.Encoding (1.9s)
+✔ [7961/7969] Built FormalConjecturesForMathlib.Computability.TuringMachine.PostTuringMachine (1.9s)
+✔ [7962/7970] Built FormalConjecturesForMathlib.Data.Finset.Powerset (1.7s)
+✔ [7963/7970] Built FormalConjecturesForMathlib.Data.Int.IntermediateValue (1.4s)
+✔ [7964/7971] Built FormalConjecturesForMathlib.Data.Finset.ReciprocalSum (1.8s)
+✔ [7965/7972] Built FormalConjecturesForMathlib.Data.Nat.Init (1.3s)
+✔ [7966/7973] Built FormalConjecturesForMathlib.Data.Nat.Factorization.Basic (2.2s)
+✔ [7967/7974] Built FormalConjecturesForMathlib.Data.Nat.Full (2.5s)
+✔ [7968/7975] Built FormalConjecturesForMathlib.Computability.TuringMachine.BusyBeavers (3.0s)
+✔ [7969/7976] Built FormalConjecturesForMathlib.Data.Nat.MaxPrimeFac (2.1s)
+✔ [7970/7976] Built FormalConjecturesForMathlib.Data.Nat.Prime.Composite (1.6s)
+✔ [7971/7977] Built FormalConjecturesForMathlib.Data.Nat.Prime.Defs (2.7s)
+✔ [7972/7978] Built FormalConjecturesForMathlib.Data.Nat.Prime.Finset (1.7s)
+✔ [7973/7978] Built FormalConjecturesForMathlib.Data.Nat.PerfectPower (4.1s)
+✔ [7974/7980] Built FormalConjecturesForMathlib.Computability.TuringMachine.Notation (3.4s)
+✔ [7975/7982] Built FormalConjecturesForMathlib.Data.Real.NearestInt (1.7s)
+✔ [7976/7983] Built FormalConjecturesForMathlib.Data.Set.Interval (1.6s)
+✔ [7977/7984] Built FormalConjecturesForMathlib.Data.Real.Constants (2.9s)
+✔ [7978/7985] Built FormalConjecturesForMathlib.Data.Nat.Squarefree (3.8s)
+✔ [7979/7986] Built FormalConjecturesForMathlib.Order.Interval.Finset.Basic (1.9s)
+✔ [7980/7987] Built FormalConjecturesForMathlib.Order.Interval.Finset.Nat (1.9s)
+✔ [7981/7988] Built FormalConjecturesForMathlib.Data.Set.Triplewise (2.5s)
+✔ [7982/7988] Built FormalConjecturesForMathlib.Data.ZMod.Fp (1.0s)
+✔ [7983/7988] Built FormalConjecturesForMathlib.Data.ZMod.PerfectDifferenceSet (1.8s)
+✔ [7984/7991] Built FormalConjecturesForMathlib.FieldTheory.MvRatFunc.Defs (2.4s)
+✔ [7985/7992] Built FormalConjecturesForMathlib.Geometry.Metric (1.9s)
+✔ [7986/7993] Built FormalConjecturesForMathlib.Geometry.Euclidean (2.8s)
+✔ [7987/7994] Built FormalConjecturesForMathlib.Logic.Equiv.Fin.Rotate (1.6s)
+✔ [7988/7995] Built FormalConjecturesForMathlib.LinearAlgebra.AffineSpace.Simplex.Basic (2.3s)
+✔ [7989/7997] Built FormalConjecturesForMathlib.Data.Set.Density (5.5s)
+✔ [7990/7997] Built FormalConjecturesForMathlib.Geometry.«3d» (3.3s)
+✔ [7991/7998] Built FormalConjecturesForMathlib.LinearAlgebra.GeneralLinearGroup (2.8s)
+✔ [7992/7998] Built FormalConjecturesForMathlib.NumberTheory.Amicable (1.0s)
+✔ [7993/7999] Built FormalConjecturesForMathlib.NumberTheory.AdditivelyComplete (2.0s)
+✔ [7994/8000] Built FormalConjecturesForMathlib.NumberTheory.BeurlingPrimes (1.0s)
+✔ [7995/8001] Built FormalConjecturesForMathlib.LinearAlgebra.SpecialLinearGroup (2.7s)
+✔ [7996/8002] Built FormalConjecturesForMathlib.NumberTheory.CoveringSystem (2.3s)
+✔ [7997/8004] Built FormalConjecturesForMathlib.NumberTheory.DirichletCharacter.Basic (2.9s)
+✔ [7998/8004] Built FormalConjecturesForMathlib.NumberTheory.Divisors (2.8s)
+✔ [7999/8005] Built FormalConjecturesForMathlib.Geometry.«2d» (8.5s)
+✔ [8000/8006] Built FormalConjecturesForMathlib.NumberTheory.Carmichael (6.4s)
+✔ [8001/8008] Built FormalConjecturesForMathlib.NumberTheory.LegendreSymbol.Basic (2.5s)
+✔ [8002/8008] Built FormalConjecturesForMathlib.NumberTheory.NormalNumber (1.0s)
+✔ [8003/8009] Built FormalConjecturesForMathlib.NumberTheory.Lacunary (2.6s)
+✔ [8004/8010] Built FormalConjecturesForMathlib.NumberTheory.NumberField.Quadratic (2.7s)
+✔ [8005/8011] Built FormalConjecturesForMathlib.NumberTheory.PracticalNumbers (1.8s)
+✔ [8006/8012] Built FormalConjecturesForMathlib.NumberTheory.PrimeGap (1.9s)
+✔ [8007/8014] Built FormalConjecturesForMathlib.NumberTheory.Primitive (2.2s)
+✔ [8008/8014] Built FormalConjecturesForMathlib.NumberTheory.SierpinskiNumber (1.5s)
+✔ [8009/8015] Built FormalConjecturesForMathlib.NumberTheory.PisotNumber (3.7s)
+✔ [8010/8017] Built FormalConjecturesForMathlib.NumberTheory.WallSunSunPrimes (3.4s)
+✔ [8011/8017] Built FormalConjecturesForMathlib.Probability.FiniteMethod (1.0s)
+✔ [8012/8019] Built FormalConjecturesForMathlib.SetTheory.Cardinal.Arithmetic (2.2s)
+✔ [8013/8019] Built FormalConjecturesForMathlib.SetTheory.Cardinal.Continuum (1.8s)
+✔ [8014/8022] Built FormalConjecturesForMathlib.SetTheory.Cardinal.SimpleGraph (1.9s)
+✔ [8015/8022] Built FormalConjecturesForMathlib.Topology.AbsoluteNeighborhoodRetract (1.9s)
+✔ [8016/8022] Built FormalConjecturesForMathlib.Topology.GDelta (1.8s)
+✔ [8017/8024] Built FormalConjecturesForMathlib.Topology.Discrete (1.9s)
+✔ [8018/8024] Built FormalConjecturesUtil.Answer.Syntax (396ms)
+✔ [8019/8028] Built FormalConjecturesUtil.Answer (1.2s)
+✔ [8020/8031] Built FormalConjecturesForMathlib.Topology.Homogeneous (1.7s)
+✔ [8021/8035] Built FormalConjecturesForMathlib.Topology.LebesgueCoveringDimension (1.9s)
+✔ [8023/8040] Built FormalConjecturesForMathlib.Topology.MetricSpace.MetricSeparated (2.1s)
+✔ [8024/8040] Built FormalConjecturesForMathlib.Lean.Elab.InfoTree.Util (540ms)
+✔ [8025/8040] Built FormalConjecturesUtil.Linters.CopyrightLinter (901ms)
+✔ [8026/8040] Built FormalConjecturesUtil.Linters.ModuleDocstringLinter (1.2s)
+✔ [8027/8040] Built FormalConjecturesUtil.Linters.NamespaceLinter (904ms)
+✔ [8028/8040] Built FormalConjecturesUtil.Attributes.AMS (2.0s)
+✔ [8029/8040] Built FormalConjecturesForMathlib.Tactic.Linter.Term (753ms)
+✔ [8030/8040] Built FormalConjecturesUtil.Linters.ExistsImplicationLinter (742ms)
+✔ [8031/8040] Built FormalConjecturesUtil.Attributes.Basic (2.2s)
+✔ [8032/8040] Built FormalConjecturesUtil.Linters.CategoryDocstringLinter (1.8s)
+✔ [8033/8040] Built FormalConjecturesUtil.Linters.CategoryLinter (1.8s)
+✔ [8034/8040] Built FormalConjecturesUtil.Linters.AnswerLinter (1.9s)
+✔ [8035/8040] Built FormalConjecturesForMathlib (5.5s)
+✔ [8036/8040] Built FormalConjecturesUtil.Linters.AMSLinter (1.7s)
+✔ [8037/8040] Built FormalConjecturesUtil (3.7s)
+⚠ [8038/8040] Built FormalConjectures.WrittenOnTheWallII.GraphConjecture19BipartiteSupport (4.9s)
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:6:0: This file has no module docstring (`/-! ... -/`). Add one after the imports to document the file.
+
+Note: This linter can be disabled with `set_option linter.style.moduleDocstring false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:12:0: automatically included section variable(s) unused in theorem `SimpleGraph.card_le_largestInducedBipartiteSubgraphSize_of_induce_isBipartite`:
+  [DecidableEq α]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq α] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:10:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:10:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:26:0: automatically included section variable(s) unused in theorem `SimpleGraph.induce_union_indep_isBipartite`:
+  [Fintype α]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype α] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:25:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:25:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:55:0: automatically included section variable(s) unused in theorem `SimpleGraph.shortest_walk_no_forward_chord`:
+  [Fintype α]
+  [DecidableEq α]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype α] [DecidableEq α] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:54:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:54:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:104:10: Try `simp at hadj` instead of `simpa using hadj`
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:119:16: Try `simp at hxyG` instead of `simpa using hxyG`
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:72:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:72:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19BipartiteSupport.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+⚠ [8039/8040] Built FormalConjectures.WrittenOnTheWallII.GraphConjecture19Conjecture13Support (10s)
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:49:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:49:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:64:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:64:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:86:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:86:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:113:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:113:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:123:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:123:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:137:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:137:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:149:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:149:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:221:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:221:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:262:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:262:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:279:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:279:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:290:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:290:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:299:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:299:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:307:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:307:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:325:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:325:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:353:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:353:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:371:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:371:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:398:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:398:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:424:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:424:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:450:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:450:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:471:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:471:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:485:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:485:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:502:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:502:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:523:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:523:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:592:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:592:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:730:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:730:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:740:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:740:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:765:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:765:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:779:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:779:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:812:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:812:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:836:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:836:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:865:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:865:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1076:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1076:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1095:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1095:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Conjecture13Support.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+⚠ [8040/8040] Built FormalConjectures.WrittenOnTheWallII.GraphConjecture19Solved (8.6s)
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:8:0: This file has no module docstring (`/-! ... -/`). Add one after the imports to document the file.
+
+Note: This linter can be disabled with `set_option linter.style.moduleDocstring false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:18:0: automatically included section variable(s) unused in theorem `SimpleGraph.not_adj_neighbor_geodesic_vertex_of_index_ge_three`:
+  [Fintype α]
+  [DecidableEq α]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype α] [DecidableEq α] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:18:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:18:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:51:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:51:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:62:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:62:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:78:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:78:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:109:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:109:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:123:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:123:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:143:8: `Int.floor_le_sub_one_iff` has been deprecated: Use `Int.floor_lt` instead
+
+Note: The updated constant has a different type:
+  ∀ {α : Type u_2} [inst : Ring α] [inst_1 : LinearOrder α] [inst_2 : FloorRing α] {z : ℤ} {a : α}, ⌊a⌋ < z ↔ a < ↑z
+instead of
+  ∀ {R : Type u_2} [inst : Ring R] [inst_1 : LinearOrder R] [inst_2 : FloorRing R] {z : ℤ} {a : R}, ⌊a⌋ ≤ z - 1 ↔ a < ↑z
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:135:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:135:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:156:0: automatically included section variable(s) unused in theorem `SimpleGraph.path_vertices_erase_one_card_eq_length`:
+  [Fintype α]
+  [Nonempty α]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype α] [Nonempty α] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:156:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:156:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:172:0: automatically included section variable(s) unused in theorem `SimpleGraph.diam_geodesic_neighbor_path_witness_disjoint`:
+  [Fintype α]
+  [Nonempty α]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype α] [Nonempty α] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:172:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:172:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:199:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:199:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:340:10: 'change z ∈ A ∪ P' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:343:10: 'change z ∈ A ∪ P' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:350:8: 'change z ∈ A ∪ P' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:212:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:212:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:361:25: unused variable `hG`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:360:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:360:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:421:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:421:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:453:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:453:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:460:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:460:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:478:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:478:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:531:0: Missing AMS attribute.
+
+Note: This linter can be disabled with `set_option linter.style.ams_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:531:0: Missing problem category attribute
+
+Note: This linter can be disabled with `set_option linter.style.category_attribute false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:557:2: If a problem has a sorry-free proof, it should not be categorised as `open`.
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+warning: FormalConjectures/WrittenOnTheWallII/GraphConjecture19Solved.lean:1:0: The copyright header is incorrect. Please copy and paste the following one:
+/-
+Copyright 2026 The Formal Conjectures Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-/
+
+Note: This linter can be disabled with `set_option linter.style.copyright.formalConjectures false`
+Build completed successfully (8040 jobs).
