@@ -4,7 +4,9 @@ Isolated research workspace for decisively classifying and formally proving Writ
 
 ## Current classification
 
-**Mathematically proven; exact Lean 4.27 / current Formal Conjectures kernel check in progress.**
+**CANDIDATE SOLVED.**
+
+The mathematical proof is complete, the exact authoritative theorem has passed a Lean 4.27 kernel check under the pinned current Formal Conjectures environment, and the final adversarial source/evidence review is recorded in `INDEPENDENT_REVIEW.md`.
 
 The authoritative target is preserved unchanged:
 
@@ -20,19 +22,37 @@ This repository does **not** modify the shared Formal Conjectures checkout. CI c
 - `google-deepmind/formal-conjectures`
 - `chainstart/amra`
 
-It then generates an isolated, no-`sorry` port of the audited proof and kernel-checks it under the Formal Conjectures toolchain.
+It then generates an isolated no-placeholder port of the audited proof and kernel-checks it under Lean 4.27.
+
+## Formal certificate
+
+Passing CI result on branch `ci-results`:
+
+```text
+failed_phase=none
+exit_code=0
+Build completed successfully (8040 jobs).
+```
+
+Final generated theorem SHA256:
+
+```text
+9cf7465ebb1a9d11b9b954ed4f6a14c7a81ae3b4fd2d041f84cc01d7762815f1
+```
 
 ## Evidence
 
 - No counterexample among 3,033 reproducibly tested connected graphs.
-- Human proof in `HUMAN_PROOF.md`.
-- Exact progress and trust boundaries in `STATUS.md`.
+- Complete human proof in `HUMAN_PROOF.md`.
+- Final status and trust boundaries in `STATUS.md`.
+- Independent final review in `INDEPENDENT_REVIEW.md`.
 - Reproducible finite search in `search/search_conjecture19.py`.
-- Lean port generator in `scripts/generate_lean_port.py`.
+- Deterministic Lean port generator in `scripts/generate_lean_port.py`.
+- Complete generated sources, build transcript, environment record, and hashes on branch `ci-results`.
 
 ## Integrity rules
 
-- Preserve the upstream theorem statement.
-- No `sorry`, `admit`, custom axioms, or hidden theorem-strengthening assumptions.
-- No upstream PR or maintainer contact without Brian's explicit approval.
-- A successful CI run is a candidate solution, pending independent review.
+- Preserve the upstream theorem statement exactly.
+- No `sorry`, `admit`, custom axioms, or hidden theorem-strengthening assumptions in the proof certificate.
+- Do not rely on the upstream Conjecture 13 placeholder.
+- No upstream PR, issue, branch, submission, or maintainer contact without Brian's explicit approval.
