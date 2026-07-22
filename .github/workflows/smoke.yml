@@ -3,6 +3,8 @@ name: Actions smoke test
 on:
   create:
   workflow_dispatch:
+  schedule:
+    - cron: '10 3 * * *'
 
 permissions:
   contents: write
