@@ -43,9 +43,7 @@ def make_bipartite_support(source: str) -> str:
     if end < start:
         raise SystemExit("could not locate final SimpleGraph namespace terminator")
     body = source[start:end].rstrip()
-    result = f"""import FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Independence
-import FormalConjecturesForMathlib.Combinatorics.SimpleGraph.Induced
-import Mathlib.Combinatorics.SimpleGraph.Diam
+    result = f"""import FormalConjecturesUtil
 import Mathlib.Tactic.NormNum
 
 namespace SimpleGraph
@@ -100,11 +98,7 @@ def make_conjecture19(source: str) -> str:
     )
     if old_import not in source:
         raise SystemExit("could not locate AMRA WOWII 13 import")
-    source = source.replace(
-        old_import,
-        new_import + "\nimport FormalConjecturesUtil.Attributes.Basic",
-        1,
-    )
+    source = source.replace(old_import, new_import, 1)
 
     # Formal Conjectures already owns these two public symbols. Keep the local
     # real-valued bridge, but use upstream `indepNeighbors` and `G.eccent` in
