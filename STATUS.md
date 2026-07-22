@@ -2,66 +2,56 @@
 
 ## STATUS
 
-**MATHEMATICALLY PROVEN; EXACT LEAN 4.27 KERNEL CHECK RUNNING.**
+**MATHEMATICALLY PROVEN; LEAN 4.27 PORT PREPARED; KERNEL EXECUTION BLOCKED.**
 
-The conjecture is classified as true. A complete human proof and a pinned no-placeholder Lean certificate have been audited. The only remaining completion gate is compilation of the generated definition-preserving port under the current Formal Conjectures toolchain, followed by independent review.
+The conjecture is classified as true. The human proof is complete, the counterexample search is reproducible, and a deterministic port from the pinned no-placeholder Lean certificate to the current Formal Conjectures definitions is committed here.
+
+The only unmet gate is an actual Lean 4.27 kernel run followed by independent review.
 
 ## STATEMENT
 
-Authoritative theorem, preserved unchanged in `authoritative/GraphConjecture19.lean`:
+The authoritative statement is preserved unchanged in `authoritative/GraphConjecture19.lean`.
 
-```lean
-theorem conjecture19 (G : SimpleGraph α) [Nontrivial α] (h_conn : G.Connected) :
-    ⌊(∑ v ∈ Finset.univ, ((G.eccent v).toNat : ℝ)) / (Fintype.card α : ℝ) +
-      sSup (Set.range (indepNeighbors G))⌋ ≤ b G := by
-  sorry
-```
+Current pinned Formal Conjectures semantics:
 
-Exact current definitions at Formal Conjectures commit
-`e923379e609b9d5987011a1d1f06ec22ea25cd20`:
+- `indepNeighbors G v` is the real cast of the independence number of the graph induced by `N(v)`.
+- `b G` is the real cast of the largest induced-bipartite vertex-set cardinality.
+- `G.eccent v` is converted with `.toNat` before averaging.
 
-- `indepNeighbors G v = ((G.induce (G.neighborSet v)).indepNum : ℝ)`.
-- `b G` is the real cast of the supremal cardinality of a vertex finset inducing a bipartite graph.
-- `G.eccent v` is Mathlib's extended-natural eccentricity and the theorem applies `.toNat` before averaging.
+**PROVEN:** exact statement and definitions audited.
 
-**PROVEN:** formal statement matches the mathematical quantity used in the proof.
+**OPEN:** none.
 
-**OPEN:** none in the statement audit.
-
-**NEXT:** retain exact theorem text in the generated compiled artifact.
+**NEXT:** compile the unchanged final theorem.
 
 ## SEARCH
 
-The exact finite evaluator tests
-
-```text
-floor((sum of eccentricities)/|V| + max_v alpha(G[N(v)])) <= b(G).
-```
-
-Search corpus:
+Exact search corpus:
 
 | Corpus | Tested | Counterexamples | Equality cases |
 |---|---:|---:|---:|
-| All connected unlabeled graphs of orders 2–7 | 995 | 0 | 599 |
-| Targeted dense/extremal families through order 16 | 538 | 0 | 157 |
+| Connected unlabeled graphs, orders 2–7 | 995 | 0 | 599 |
+| Targeted extremal families through order 16 | 538 | 0 | 157 |
 | Seeded random connected graphs, orders 8–12 | 1,500 | 0 | 279 |
 | **Total** | **3,033** | **0** | **1,035** |
 
-Minimum observed margin was zero. The implementation is in `search/search_conjecture19.py`; the fixed random seed is `190019`.
+The search was rerun twice after the original run. The preserved JSON outputs were byte-for-byte identical:
 
-**PROVEN:** no counterexample in the stated, reproducible corpus.
+```text
+34d231ca3f5544dcdae2439c54c3237282e19a45e2db0286176b716fd80bd2dc
+```
 
-**OPEN:** finite search is supporting evidence, not the proof.
+See `search/search_conjecture19.py` and `search/SEARCH_RESULTS.md`.
 
-**NEXT:** retain the script and exact parameters with any submission package.
+**PROVEN:** no counterexample in the recorded corpus.
+
+**OPEN:** search is supporting evidence, not the universal proof.
+
+**NEXT:** retain the script, parameters, and hash.
 
 ## PROOF
 
-Let
-
-- `d = diam(G)`,
-- `λ = max_v α(G[N(v)])`, and
-- `ē` be the average eccentricity.
+Let `d` be the diameter, `λ` the maximum neighborhood independence number, and `ē` the average eccentricity.
 
 A diameter-path window construction proves
 
@@ -69,73 +59,66 @@ A diameter-path window construction proves
 b(G) >= d + λ - 1.
 ```
 
-Since `ē <= d`:
+Because `ē <= d`:
 
-1. If `ē < d`, integrality gives `floor(ē + λ) <= d + λ - 1`, so the structural bound applies.
-2. If `ē = d`, every vertex is diametral. Choose a vertex attaining `λ`, a maximum independent subset of its neighborhood, and a diametral geodesic starting there. Delete the first path neighbor and combine the remaining path with the independent neighborhood set. The parity coloring yields an induced bipartite subgraph of order `d + λ`.
+1. If `ē < d`, integrality gives `floor(ē + λ) <= d + λ - 1`.
+2. If `ē = d`, every vertex is diametral. Starting a diametral geodesic at a vertex attaining `λ`, delete its first neighbor and combine the remaining path with a maximum independent subset of its neighborhood. Parity gives an induced bipartite subgraph of order `d + λ`.
 
-A detailed argument, including the full short-window lemma rather than treating it as an assumption, is in `HUMAN_PROOF.md`.
+The complete short-window construction is in `HUMAN_PROOF.md`.
 
 **PROVEN:** complete human proof.
 
 **OPEN:** none mathematically.
 
-**NEXT:** compare the generated Lean witness construction line-by-line against this proof during independent review.
+**NEXT:** independent proof review after formal compilation.
 
 ## LEAN
 
-Pinned audited proof source:
+Pinned sources:
 
-- AMRA commit: `e4e339e5b380375cf1c7838251966d0fc3c06929`
-- Original certificate toolchain: Lean 4.26 / mathlib `2df2f0150c275ad53cb3c90f7c98ec15a56a1a67`
-- Current target toolchain: Lean 4.27 / mathlib `a3a10db0e9d66acbebf76c5e6a135066525ac900`
+- Formal Conjectures: `e923379e609b9d5987011a1d1f06ec22ea25cd20`
+- AMRA certificate: `e4e339e5b380375cf1c7838251966d0fc3c06929`
+- Target toolchain: Lean 4.27, mathlib `a3a10db0e9d66acbebf76c5e6a135066525ac900`
 
-`script/generate_lean_port.py` (path: `scripts/generate_lean_port.py`) creates three isolated modules inside a fresh pinned Formal Conjectures checkout:
+`scripts/generate_lean_port.py` creates three isolated modules and preserves the exact final theorem. It uses the current definitions, avoids the upstream Conjecture 13 placeholder, removes duplicate aliases, and rejects proof placeholders.
 
-1. `GraphConjecture19BipartiteSupport.lean`
-2. `GraphConjecture19Conjecture13Support.lean`
-3. `GraphConjecture19Solved.lean`
+`scripts/run_port_ci.sh` fetches the exact commits, generates the modules, downloads the Mathlib cache, runs `lake env lean`, and writes a complete result bundle.
 
-The generator:
+### Execution blocker
 
-- uses current upstream `b`, `indepNeighborsCard`, and `indepNeighbors` definitions;
-- does not import the current upstream Conjecture 13 placeholder, whose body still contains `sorry`;
-- removes the AMRA-only duplicate aliases;
-- preserves the authoritative final theorem without an added `DecidableRel` assumption;
-- rejects generated files containing `sorry`, `admit`, or `axiom`.
+These trigger paths were tested:
 
-The workflow `.github/workflows/lean.yml` checks out exact commits, downloads the Mathlib cache, runs `lake env lean` on the generated final artifact, and publishes all generated source and logs to branch `ci-results`.
+- pushes to `main`;
+- branch creation;
+- a scheduled full build;
+- repeated scheduled one-step smoke jobs.
 
-**PROVEN:** pinned certificate source has no textual `sorry`, `admit`, or custom `axiom`; exact-definition rewrite has been statically audited.
+None produced a workflow run, status check, result branch, or compiler transcript. Therefore this is a repository Actions/event-execution blocker, not a Lean compilation failure.
 
-**OPEN:** current Lean 4.27 kernel result has not yet been published by CI.
+Temporary schedules and the smoke workflow were removed. `.github/workflows/lean.yml` now has only explicit push and manual triggers.
 
-**NEXT:** inspect `ci-results`; patch only concrete compiler errors; require exit code zero.
+**PROVEN:** pinned certificate and generated-source transformation are statically audited; all required structural helpers are included.
+
+**OPEN:** one actual Lean 4.27 kernel run.
+
+**NEXT:** enable repository Actions and manually run **Lean kernel check**, or execute `bash scripts/run_port_ci.sh` from a networked clone. Require `failed_phase=none` and `exit_code=0`.
 
 ## REVIEW
 
-Adversarial checks completed:
+Adversarial review checked the floor split, equality case, short-window cardinality, parity classes, path chords, current definition equivalence, and generated dependency closure. No mathematical gap was found.
 
-- Tested complete, multipartite, odd-cycle, wheel, friendship, join, and random dense/sparse families.
-- Rechecked the floor/integrality split.
-- Rechecked the path-window cardinality loss and both independent color classes.
-- Verified the equality branch does not assume the maximizing local-independence vertex is peripheral; equality of average eccentricity with diameter proves every vertex is peripheral.
-- Verified current upstream `b` and `indepNeighbors` semantics match the proof certificate.
+**PROVEN:** mathematical review complete.
 
-**PROVEN:** no mathematical contradiction or hidden proof assumption found.
+**OPEN:** independent Lean build and source review.
 
-**OPEN:** independent Lean 4.27 build and source review after CI passes.
-
-**NEXT:** have a second reviewer reproduce the pinned checkout and `lake env lean` command.
+**NEXT:** reproduce the exact pinned build after the kernel run passes.
 
 ## SUBMISSION
 
-No upstream branch, PR, issue, maintainer contact, or submission has been created for Conjecture 19.
+No upstream pull request, issue, branch, maintainer contact, or submission was created.
 
-The current repository is an isolated work/evidence repository supplied by Brian.
+**PROVEN:** stop gate respected.
 
-**PROVEN:** no upstream publication action taken.
+**OPEN:** kernel pass, independent review, and Brian's approval.
 
-**OPEN:** submission approval and reviewer-ready packaging.
-
-**NEXT:** after kernel success and independent review, label the result **candidate solved** and ask Brian before any upstream action.
+**NEXT:** only after those gates, use the label **CANDIDATE SOLVED**.
